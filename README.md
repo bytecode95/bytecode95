@@ -8,8 +8,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@byte.talking](https://medium.com/@byte.talking)
 
-- 💬 Ask me about **react, java**
-
 - 📫 How to reach me **cheth.virajini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
