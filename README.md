@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chethana Virajini</h1>
 <h3 align="center">Software Developer|Blogger</h3>
-<img align="right" alt="img-gif" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-7362399-6031664.mp4?h=700">
+<img align="right" alt="img-gif" width="400" src="https://raw.githubusercontent.com/bytecode95/bytecode95/main/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytecode95&label=Profile%20views&color=0e75b6&style=flat" alt="bytecode95" /> </p>
 
