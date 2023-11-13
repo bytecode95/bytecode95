@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@byte.talking](https://medium.com/@byte.talking)
 
-- 📫 How to reach me **cheth.virajini@gmail.com**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
