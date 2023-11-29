@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytecode95&label=Profile%20views&color=0e75b6&style=flat" alt="bytecode95" /> </p>
 
-- 🌱 I’m currently learning **C#.NET | Next JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 📝 I regularly write articles on [https://medium.com/@byte.talking](https://medium.com/@byte.talking)
 
